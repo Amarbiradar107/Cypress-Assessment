@@ -1,0 +1,10 @@
+Install cypress libery 
+npm add --save-dev cypress 
+
+run test script in NONGUI
+npx cypress run 
+
+run test script in GUI
+npx cypress open 
+
+
